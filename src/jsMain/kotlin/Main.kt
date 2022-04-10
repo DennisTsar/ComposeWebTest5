@@ -17,7 +17,7 @@ fun main() {
             }
 
             Span({ style { padding(15.px) } }) {
-                Text("$count")
+                Text("$count (Hello World)")
             }
 
             Button(attrs = {

@@ -13,7 +13,7 @@ fun main() {
             Button(attrs = {
                 onClick { count -= 1 }
             }) {
-                Text("-")
+                Text("-Why didn't taht work")
             }
 
             Span({ style { padding(15.px) } }) {
